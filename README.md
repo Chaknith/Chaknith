@@ -1,11 +1,13 @@
 ## Hi there 👋
 
+🔭 Building end-to-end machine learning projects, from training models to deploying them on AWS.
+
+[![roadmap.sh](https://roadmap.sh/card/tall/696baaf1b834537637e6af7a?variant=dark&roadmaps=machine-learning)](https://roadmap.sh)
+
 <!--
 **Chaknith/Chaknith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
