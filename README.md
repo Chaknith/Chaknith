@@ -1,10 +1,15 @@
 ## Hi there 👋
 
-🔭 Building end-to-end machine learning projects, from training models to deploying them on AWS.
+🔭 Researching for a small-scale project focused on applying machine learning techniques to hyperspectral data.
 
-[![roadmap.sh](https://roadmap.sh/card/tall/696baaf1b834537637e6af7a?variant=dark&roadmaps=machine-learning)](https://roadmap.sh)
+- [Home-Credit-Default-Risk](https://github.com/Chaknith/Home-Credit-Default-Risk) end-to-end machine learning projects, from training models to deploying them on Hugging Face Space.
+  - [Try it on Hugging Face Space](https://huggingface.co/spaces/ML-Lab-Banana/Home_Credit_Default_Risk_HF)
 
 <!--
+[![roadmap.sh](https://roadmap.sh/card/tall/696baaf1b834537637e6af7a?variant=dark&roadmaps=machine-learning)](https://roadmap.sh)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/chaknith)
+
 **Chaknith/Chaknith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
